@@ -48,10 +48,10 @@
 * 검증 결과, 접힘 시 전원이 꺼지던 현상이 완전히 해결되었고 분홍색 선 없는 Clean Display가 정상 출력되는 것을 확인하며 진단의 정확성을 최종 검증했습니다.
 
 ### [Step 3] 힌지 케이블 및 OLED 패널 메인 조립
-| 커버 디스플레이 분리 | 플렉시블 디스플레이 분리 |
+| 커버 디스플레이 작동확인 | 플렉시블 디스플레이 작동확인 |
 | :---: | :---: |
 | <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/03-01.jpg" width="450"> | <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/03-02.jpg" width="450" > |
-* 가조립 상태에서 정상 작동을 확인한 후, 베젤과 커버 디스플레이 접착 및 조립했습니다.
+* 베젤과 커버 디스플레이 접착 및 조립했습니다.
 
 ---
 
