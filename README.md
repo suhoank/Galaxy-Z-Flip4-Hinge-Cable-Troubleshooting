@@ -11,6 +11,7 @@
 ### 🚨 발생 증상
 <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/00.jpg" width="350">
 1. 폴딩(접힘) 시 시스템 셧다운: 디바이스를 접는 순간 완전히 전원이 꺼지는 현상 발생.
+
 2. 디스플레이 파손 노이즈: 디스플레이 화면 상에 소프트웨어로 해결 불가능한 세로 분홍색 선이 지속적으로 출력됨.
 
 ### 💡 원인 추론 및 정비 방향 정의
