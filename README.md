@@ -43,14 +43,13 @@
 
 <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/02-02.jpg" width="350">
 * 새로 구매한 힌지 케이블과 추출한 디스플레이를 가조립 형태로 연결한 뒤, 접고 펴는 동작을 반복하며 테스트를 진행했습니다. 
-* 검증 결과, **접힘 시 전원이 꺼지던 현상이 완전히 해결되었고 분홍색 선 없는 Clean Display가 정상 출력되는 것을 확인**하며 진단의 정확성을 최종 검증했습니다.
+* 검증 결과, 접힘 시 전원이 꺼지던 현상이 완전히 해결되었고 분홍색 선 없는 Clean Display가 정상 출력되는 것을 확인하며 진단의 정확성을 최종 검증했습니다.
 
 ### [Step 3] 힌지 케이블 및 OLED 패널 메인 조립
-* 가조립 상태에서 정상 작동을 확인한 후, 가동축의 마찰과 유격을 고려하여 새 힌지 케이블을 하우징에 완벽히 인착시켰습니다.
-* 정밀 나사 결합을 통해 메인보드와 서브보드의 체결력을 확보했습니다.
-
-### [Step 4] 베젤 및 후면 글라스 완전 실링 (Finishing)
-* B7000 접착제를 활용하여 방수 디테일과 외관 유격을 정밀 조율하며 베젤 및 후면 패널을 안착시키고 완전 건조하여 조립을 마감했습니다.
+| 커버 디스플레이 분리 | 플렉시블 디스플레이 분리 |
+| :---: | :---: |
+| <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/02-01-1.jpg" width="450"> | <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/02-01-2.jpg" width="450" > |
+* 가조립 상태에서 정상 작동을 확인한 후, 베젤과 커버 디스플레이 접착 및 조립했습니다.
 
 ---
 
