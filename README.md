@@ -32,7 +32,7 @@
 ### [Step 1] 내부 기구 분해 및 부품 추출
 | 베젤 분리 | 플렉시블 디스플레이 분리 |
 | :---: | :---: |
-| <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/01-01.jpg" width="350"> | <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/01-02.jpg" width="450" > |
+| <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/01-01.jpg" width="450"> | <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/01-02.jpg" width="450" > |
 * 후면 글라스 패널에 정밀 흡착판을 밀착시켜 유격을 확보한 뒤, 내부 부품 및 FPCB 케이블이 손상되지 않도록 정밀 제어하여 하우징 분해를 완료했습니다.
 
 ### [Step 2] 크로스 체킹 및 가조립 검증 (Cross-Validation)
