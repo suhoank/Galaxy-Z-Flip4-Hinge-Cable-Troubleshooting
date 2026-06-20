@@ -41,7 +41,9 @@
 | <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/02-01-1.jpg" width="450"> | <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/02-01-2.jpg" width="450" > |
 * 부품용 플립4(Donor Device)에서 정상 상태의 플렉시블 디스플레이 모듈을 추출했습니다.<br>
 
-<img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/02-02.jpg" width="350">
+| 가조립 작동 테스트 |
+| :---: |
+| <img src="https://github.com/suhoank/Galaxy-Z-Flip4-Hinge-Cable-Troubleshooting/blob/main/image/02-02.jpg" width="350"> |
 * 새로 구매한 힌지 케이블과 추출한 디스플레이를 가조립 형태로 연결한 뒤, 접고 펴는 동작을 반복하며 테스트를 진행했습니다. 
 * 검증 결과, 접힘 시 전원이 꺼지던 현상이 완전히 해결되었고 분홍색 선 없는 Clean Display가 정상 출력되는 것을 확인하며 진단의 정확성을 최종 검증했습니다.
 
